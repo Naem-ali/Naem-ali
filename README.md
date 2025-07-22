@@ -1,6 +1,6 @@
 ## Hi there 👋
 - 🔭 I’m currently working on ....... Enterprise Managed Kubernetes Dashboard
-- 🌱 I’m currently learning .............LLM, AIOps
+- 🌱 I’m currently learning .............LLM(Large Language Models), AIOps
 - 👯 I’m looking to collaborate on...Cloud Native Architecture
-- 📫 How to reach me: ...................devopshound.com
-
+- 👨‍💻 Senior DevOps Engineer | Cloud & Infrastructure Automation | CI/CD | SRE
+- 🌐 www.devopshound.com
